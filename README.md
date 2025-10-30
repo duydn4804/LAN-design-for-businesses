@@ -1,8 +1,6 @@
 # LAN-design-for-businesses
-Thiết kế mạng LAN cho doanh nghiệp sử dụng Cisco Packet Tracer
-Mô tả dự án :
-Dự án thực hiện thiết kế và mô phỏng mạng LAN cho một doanh nghiệp với 4 tòa nhà (Tòa A, B, C, D) bao gồm các phòng: Kỹ thuật, An ninh, Kế toán, Nhân sự, Ban Giám đốc, và Điều hành Trung tâm. Sử dụng Cisco Packet Tracer để:
-- Phân chia mạng bằng VLAN và subnetting.
-- Cấu hình IP động bằng DHCP Server.
-- Kết nối mạng có dây và không dây (Wi-Fi).
-- Áp dụng giao thức định tuyến OSPF để tối ưu hóa đường truyền.
+Design LAN for business using Cisco Packet Tracer Project description: The project implements LAN design and simulation for a business with 4 buildings (Building A, B, C, D) including departments: Engineering, Security, Accounting, Human Resources, Board of Directors and Central Operations. Use Cisco Packet Tracer to:
+ - Divide the network using VLAN and subnetting.
+ - Dynamic IP configuration using DHCP Server.
+ - Wired and wireless network connection (Wi-Fi).
+ - Apply OSPF routing protocol to optimize transmission lines.
